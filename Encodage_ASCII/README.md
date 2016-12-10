@@ -13,7 +13,7 @@ entrez dans votre terminal: echo "exemple" | xxd -p.
 ## Comment utiliser
 ```
 - Téléchargez ascii_decode.sh
-- Entrez dans votre terminal sh ./ascii_decode
+- Entrez dans votre terminal sh ./ascii_decode.sh
 - Saisissez la clé 
 - Il vous sera retourné la valeur correspondante
 ```
