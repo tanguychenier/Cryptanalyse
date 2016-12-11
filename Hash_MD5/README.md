@@ -3,7 +3,7 @@
 ## A propos
 ```
 Le but de ce challenge est d'identifier le format du codensat
-(le résultat l'application d'une fonction de hachage dont
+(le résultat de l'application d'une fonction de hachage dont
 l'utilité est de fournir une empreinte numérique sur le fichier) 
 et de le casser.
 
