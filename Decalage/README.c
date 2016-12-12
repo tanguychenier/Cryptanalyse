@@ -1,6 +1,6 @@
-## Chiffrement par décalage 
+# Chiffrement par décalage 
 
-### A propos
+## A propos
 ```
 Le but de ce challenge est, via le fichier donné "ch7.bin"
 de trouver les origines du contenu.
@@ -12,7 +12,7 @@ http://www.nymphomath.ch/crypto/vigenere/index.html
 https://www.math.univ-paris13.fr/~boyer/enseignement/java-td/td1-subsitution.html
 ```
 
-### Utilisation
+## Comment utiliser
 ```
 Pour les notions d'occurences: 
 - gcc notion.c
@@ -23,5 +23,5 @@ Pour la résolution de l'exercice
 N'oubliez pas d'y placer votre ch7.bin
 ```
 
-### De
+## De
 T.CHENIER @ 2016
