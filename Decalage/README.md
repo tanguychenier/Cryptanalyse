@@ -14,7 +14,7 @@ https://www.math.univ-paris13.fr/~boyer/enseignement/java-td/td1-subsitution.htm
 
 ## Comment utiliser
 ```
-Pour les notions d'occurences: 
+Pour les notions de fréquence de répétition: 
 - gcc notion.c
 - ./a.out "entrez une phrase"
 Pour la résolution de l'exercice
