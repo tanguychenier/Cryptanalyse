@@ -4,16 +4,23 @@
 #define alpha 26
 #define TAILLE 100                  /* modifie ici pour un texte de plus de 100 caracteres */
 
+char	caractere[alpha][2] ;
+char 	texte[TAILLE] ;                /* texte a analyser */
+int 	compte[alpha] ;                 /* pour compter les differentes lettres */
+int	total = 0;
+float 	pourcent[alpha] ;             /* pour calculer le pourcentage */
 
-void init(void);                    /* initialisation */
-
-char caractere[alpha][2] ;
-char texte[TAILLE] ;                /* texte a analyser */
-int compte[alpha] ;                 /* pour compter les differentes lettres */
-float pourcent[alpha] ;             /* pour calculer le pourcentage */
-
-int total = 0 ;                     /* nombre total de caractere dans le texte */
-
+void init(void)
+{
+	int i ;
+	for(i=0 ; i<alpha ; i++)
+	{
+		caractere[i][0]='A'+i;
+		caractere[i][1]='a'+i;
+		compte[i] = 0 ;
+		pourcent[i] = 0 ;
+	}
+}
 
 int main(int argc, char **argv)
 {
@@ -49,17 +56,4 @@ int main(int argc, char **argv)
 		}
 
 	return 0 ;
-}
-
-
-void init(void)
-{
-	int i ;
-	for(i=0 ; i<alpha ; i++)
-	{
-		caractere[i][0]='A'+i;
-		caractere[i][1]='a'+i;
-		compte[i] = 0 ;
-		pourcent[i] = 0 ;
-	}
 }
