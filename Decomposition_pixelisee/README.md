@@ -7,6 +7,8 @@ en mesure d'affecter à l'ensemble des résultats de
 - 0 par x, ou 0 = #FFFFFF (blanc) et x la somme 
 - 1 par x, ou 1 = #000000 (noir)  et x la somme
 donnée dans l'épreuve, afin d'afficher la forme attendue.
+
+http://www.w3schools.com/TAgs/canvas_fillrect.asp
 ```
 
 ## Comment utiliser
