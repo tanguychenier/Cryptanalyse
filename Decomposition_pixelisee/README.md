@@ -6,7 +6,7 @@ Le but de ce challenge est de créer un programme qui sera
 en mesure d'affecter à l'ensemble des résultats de
 - 0 par x, ou 0 = #FFFFFF (blanc) et x la somme 
 - 1 par x, ou 1 = #000000 (noir)  et x la somme
-donné dans l'épreuve, afin d'afficher la forme attendue.
+donnée dans l'épreuve, afin d'afficher la forme attendue.
 ```
 
 ## Comment utiliser
