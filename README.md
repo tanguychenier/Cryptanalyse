@@ -5,7 +5,7 @@
 Ce dépôt est utilisé dans le cadre de mes épreuves de 
 cryptologie sur le site rootme.
 
-Il n'a pas pour vocation de fournir des éléments exhaustives
+Il n'a pas pour vocation de fournir des éléments exhaustifs
 à la résolution des problèmes mais des points-clés.
 
 Les détails de l'épreuve et du processus de résolution que 
