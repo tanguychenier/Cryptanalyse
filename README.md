@@ -12,7 +12,7 @@ Les détails de l'épreuve et du processus de résolution que
 j'ai établi est fourni dans le répertoire correspondant.
 
 Pour plus d'informations, je vous invite à vous rendre sur 
-le site pour résoudre (vous-même) les épréuves ;)
+le site pour résoudre (vous-même) les épreuves ;)
 ```
 
 ### De
